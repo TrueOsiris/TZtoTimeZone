@@ -1,2 +1,2 @@
 # TZtoTimeZone
-TZ unix TimeZones to sql server 2016 compliant Timezone names.
+TZ unix TimeZones to MS SQL Server 2016 compliant Timezone names.
